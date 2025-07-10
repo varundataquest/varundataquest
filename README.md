@@ -10,4 +10,4 @@
 - 📫 How to reach me: varun.v9725@gmail.com 
 - ⚡ Fun fact: ... Interested in Machine Learning, Datascience, NLP, Finance, Volleyball
 
-![Visitor Count](https://profile-counter.glitch.me/varundataquest/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/varundataquest/count.svg)
