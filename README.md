@@ -8,5 +8,5 @@
 - DevPost : https://devpost.com/varun-v9725
 - Linkedin: https://www.linkedin.com/in/varun-venkatesh-259b81304/
 - 📫 How to reach me: varun.v9725@gmail.com 
-- ⚡ Fun fact: ... Interested in Machine Learning, Datascience, NLP, Finance, Volleyball
+
 
